@@ -564,7 +564,7 @@
 				CODE_SIGN_IDENTITY = "iPhone Developer";
 				CODE_SIGN_STYLE = Manual;
 				DEVELOPMENT_TEAM = 62ZMSB35NH;
-				INFOPLIST_FILE = "/Users/princemira/Desktop/MobileAxxess/MobileAxxess/Supporting Files/Info.plist";
+				INFOPLIST_FILE = "$(SRCROOT)/MobileAxxess/Supporting Files/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
@@ -585,7 +585,7 @@
 				CODE_SIGN_IDENTITY = "iPhone Developer";
 				CODE_SIGN_STYLE = Manual;
 				DEVELOPMENT_TEAM = 62ZMSB35NH;
-				INFOPLIST_FILE = "/Users/princemira/Desktop/MobileAxxess/MobileAxxess/Supporting Files/Info.plist";
+				INFOPLIST_FILE = "$(SRCROOT)/MobileAxxess/Supporting Files/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
