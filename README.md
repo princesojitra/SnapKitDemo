@@ -4,6 +4,6 @@ Complete knowloudge of how to create a application without using storyboard and 
 
 # App Features
 
-MVMV Architecture, Structred Code, Generic WebSrvice Manager, Coredata & Codable model class for offline storage and Snpakit to provide constarint while designing user interface programetically.
+MVVM Architecture, Structred Code, Generic WebSrvice Manager, Coredata & Codable model class for offline storage and Snpakit to provide constarint while designing user interface programetically.
 
 
